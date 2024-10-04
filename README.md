@@ -1,0 +1,1 @@
+# plugins-smntcs-deactivate-image-compression
